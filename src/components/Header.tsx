@@ -11,7 +11,7 @@ const Header: React.FC = () => {
             <span>Searches</span>
           </button>
           <span className="text-gray-400">/</span>
-          <span className="font-medium text-gray-900">Product Person</span>
+          <span className="font-medium text-gray-900">Product Person TEST TEST</span>
         </div>
         
         <div className="flex items-center space-x-3">
